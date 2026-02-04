@@ -5,9 +5,9 @@ Why am I making this?:
 
 I wanted a breakout board for my OPS, I couldn't find any online so I decided to try and make my own
 
-Simplified backstory of thr OPS:
+Simplified backstory of the OPS:
 
-The Open Pluggable Specification is an open standard created by Intel, Microsoft and NEC and the late 2000's. The open standard specifies the form factor and specific connector used by digitale signate PC's.
+The Open Pluggable Specification is an open standard created by Intel, Microsoft and NEC in the late 2000's. The open standard specifies the form factor and specific connector used by digitale signate PC's.
 It was created to make supporting and operation digital signage easier, specifically upgrading and replacement of the PC.
 
 My goals with this project:
